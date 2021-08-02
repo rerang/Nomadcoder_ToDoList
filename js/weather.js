@@ -1,4 +1,4 @@
-let API_KEY = "7467b4b26badaaae2ffa5c4496827521";
+let API_KEY = "";
 
 let onGeoSuccess = (position)=>{
     let latitude = position.coords.latitude;
